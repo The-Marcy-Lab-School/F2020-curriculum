@@ -2,15 +2,15 @@
 
 0. What are the five types of HTTP requests that a browser knows how to make? Why is it important to use different types of requests?
 
-1. You've recently learned about an API for a cat sitting company. The API is fully RESTful for a resource called `cats`. You also happen to know that their database is running Postgresql on the backend. What are the five types of requests the API will respond to? List the HTTP method, url, and what SQL the request will fire, and the corresponding Sequelize method in the table below.
+1. You've recently learned about an API for a cat sitting company. The API is fully RESTful for a resource called `cats`. You also happen to know that their database is running Postgresql on the backend. What are the five types of requests the API will respond to? List the HTTP method, url, and what SQL the request will fire in the table below.
 
-| http method  |  path |  sql |  Sequelize Method | description
-|---|---|---|---|---|
-|  |  | | | |
-|  |  | | | |
-|  |  | | | |
-|  |  | | | |
-|  |  | | | |
+| http method  |  path |  sql | description
+|---|---|---|---|
+|  |  | | | 
+|  |  | | | 
+|  |  | | | 
+|  |  | | | 
+|  |  | | | 
 
 2. You're working on a blogging application and doing some debugging. You see in the logs that the following SQL has fired:
 
