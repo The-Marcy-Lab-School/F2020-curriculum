@@ -22,7 +22,7 @@
   + [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
   + [React DevTools Interactive Tutorial](https://react-devtools-tutorial.now.sh/)
 
-+ **Documentation**: Review Official React Docs
++ **Official React Documentation**: Review Official React Docs
   + [Add React to a Website](https://reactjs.org/docs/add-react-to-a-website.html)
   + [Hello World](https://reactjs.org/docs/hello-world.html)
   + [Introducting JSX](https://reactjs.org/docs/introducing-jsx.html)
