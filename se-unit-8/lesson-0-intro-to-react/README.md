@@ -26,7 +26,6 @@
   + [Add React to a Website](https://reactjs.org/docs/add-react-to-a-website.html)
   + [Hello World](https://reactjs.org/docs/hello-world.html)
   + [Introducting JSX](https://reactjs.org/docs/introducing-jsx.html)
-  + [React without JSX](https://reactjs.org/docs/react-without-jsx.html)
   + [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
   + [Components and Props](https://reactjs.org/docs/components-and-props.html)
 
