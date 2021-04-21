@@ -22,6 +22,9 @@
 + [Video Overview - The useReducer Hook](https://www.youtube.com/watch?v=sYDFCuZHrqw&list=FLnQng1ZBlOdZm943xu6OyAw&index=32)
 + [React controlled forms with hooks](https://javascript.plainenglish.io/react-controlled-forms-with-hooks-538762aab935)
 
++ Codecademy: [Learn React](https://www.codecademy.com/learn/react-101)
+  + Advanced React
+
 ### Practice:
 
 [Practice Exercises](./practice/exercises.md)
