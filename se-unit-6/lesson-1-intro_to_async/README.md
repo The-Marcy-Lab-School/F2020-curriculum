@@ -24,7 +24,7 @@
 
 ## Learning Assignments:
 
-1. **Video Tutorial Playlist:** [Net Ninja's Asynchronous JavaScript Tutorial](https://www.youtube.com/watch?v=ZcQyJ-gxke0&list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
+1. **Video Tutorial Playlist:** [Net Ninja's Asynchronous JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
     * 90 minute playlist, but all very valuable information
 
 2. **Tutorial:** [Beginners Guide To Fetching Data](https://dev.to/bjhaid_93/beginners-guide-to-fetching-data-with-ajax-fetch-api--asyncawait-3m1l)
