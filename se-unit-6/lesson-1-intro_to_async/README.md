@@ -18,9 +18,12 @@
 ## Essential Questions:
 
 - What is asynchronous programming and why is it important?
-- What are HTTP Requests?
+- What are HTTP Requests? 
+- What is XHR (XMLHttpRequest)?
 - What are promises?
 - How can the Fetch API used to make HTTP Requests?
+- What is the new Async/Await syntax? 
+- What syntax should we use a modern JavaScript developers?
 
 ## Learning Assignments:
 
