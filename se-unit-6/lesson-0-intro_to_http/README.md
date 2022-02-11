@@ -26,4 +26,4 @@
 * [How DNS Works Comic](https://howdns.works/ep2/)
 
 ## Problem Set
-[Problem Set 6.0](https://github.com/The-Marcy-Lab-School/problem-set-6_0)
+Problem Set 6.0
