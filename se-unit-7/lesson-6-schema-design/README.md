@@ -14,9 +14,9 @@
 + What's the difference between a one-to-one, one-to-many and many-to-many relationship? How do we model those using SQL?
 
 ### Learning Assignments:
++ **Article:** [How to Handle Many-to-Many Relationships](https://dzone.com/articles/how-to-handle-a-many-to-many-relationship-in-datab)
 + **Tutorial:** [Setting up a RESTful API with Node.js and PostgreSQL](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/)
 + **Tutorial:** [Build a Node.js, Express, & PostgreSQL REST API](https://www.taniarascia.com/node-express-postgresql-heroku/)
-+ **Article:** [How to Handle Many-to-Many Relationships](https://dzone.com/articles/how-to-handle-a-many-to-many-relationship-in-datab)
 + **Video:** [REST API Overview](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
 + **Article:** [Restful Routes Overview](https://medium.com/@atingenkay/restful-routes-what-are-they-8fe221521bb)
 + **Article:** [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp)
