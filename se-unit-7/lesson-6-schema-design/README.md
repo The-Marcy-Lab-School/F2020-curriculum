@@ -24,4 +24,4 @@
 + **Article** (_Optional_):[Roy Fielding's Dissertation on REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Roy Fielding authored this paper while working on a graduate degree - feel free to peruse it. It can be a bit dry, but includes some interesting tidbits. In many ways, the beauty behind REST is in it's simpilcity
 
 ### Practice:
-2. [Practice Exercises](./practice/exercises.md)
+2. [Practice Exercises](./practice)
